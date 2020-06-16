@@ -38,5 +38,8 @@
   ],
   "resolutions": {
     "@babel/parser": "7.7.5"
+  },
+  "rules": {
+    "no-unused-vars": "off"
   }
 }
